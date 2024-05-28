@@ -1,3 +1,4 @@
 datasets/*
+dataforpythonstats/*
 geodata/tz-wards.json
-spec-file.txt
+latex/*
